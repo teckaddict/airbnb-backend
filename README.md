@@ -1,6 +1,6 @@
 # Airbnb Clone Backend
 
-## The backend is buit using Django
+## The backend is built using Django
 
 ## Postgres as Database
 
