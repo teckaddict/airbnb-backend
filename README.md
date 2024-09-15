@@ -10,3 +10,5 @@
 docker-compose up --build
 
 ```
+
+Author: Emmanuel Ejeagha
