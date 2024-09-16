@@ -1,4 +1,4 @@
-# Airbnb Clone Backend
+# AIRBNB CLONE PROJECT
 
 ## The backend is built using Django
 
