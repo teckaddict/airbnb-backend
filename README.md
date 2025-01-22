@@ -5,7 +5,7 @@
 ## Postgres as Database
 
 ### To start the local server run:
-
+### Docker for containerization
 ```
 docker-compose up --build
 
